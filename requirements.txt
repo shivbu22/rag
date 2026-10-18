@@ -1,0 +1,92 @@
+# ==========================================
+# ULTIMATE GEN-AI & RAG REQUIREMENTS
+# ==========================================
+
+# 1. CORE LANGCHAIN & LANGGRAPH
+# ==========================================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-experimental
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+
+# 2. LLM PROVIDERS (LANGCHAIN INTEGRATIONS)
+# ==========================================
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-mistralai
+langchain-cohere
+langchain-huggingface
+langchain-groq
+langchain-aws
+
+# 3. LOCAL LLMS & EMBEDDINGS
+# ==========================================
+ollama
+gpt4all
+sentence-transformers
+transformers
+torch
+huggingface-hub
+
+# 4. VECTOR DATABASES & GRAPH RAG
+# ==========================================
+langchain-chroma
+langchain-pinecone
+langchain-weaviate
+langchain-qdrant
+faiss-cpu
+langchain-neo4j
+neo4j
+
+# 5. AGENT TOOLS & SEARCH
+# ==========================================
+tavily-python
+duckduckgo-search
+wikipedia
+arxiv
+youtube-transcript-api
+
+# 6. DOCUMENT LOADERS & PARSING
+# ==========================================
+pypdf
+pymupdf
+pdfplumber
+unstructured
+beautifulsoup4
+lxml
+llama-parse
+
+# 7. EVALUATION & OBSERVABILITY
+# ==========================================
+langsmith
+trulens-eval
+
+# 8. BACKEND & DATABASES
+# ==========================================
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+redis
+
+# 9. FRONTEND (UI FOR CHATBOTS)
+# ==========================================
+streamlit
+chainlit
+
+# 10. UTILITIES
+# ==========================================
+python-dotenv
+loguru
+numpy
+pandas
+tqdm
+scikit-learn
+flashrank
+rank-bm25
